@@ -3,6 +3,7 @@
 - https://gamma.app/
 - https://aitestkitchen.withgoogle.com/
 - https://ai.google.dev/gemini-api
+- https://aistudio.google.com/app/prompts/new_chat
 
 ## From an App-dev - Build a Scalable Gemini-Powered Serverless App
 By Weiyuan Liu (Google Developer Expert - Google Cloud Platform)

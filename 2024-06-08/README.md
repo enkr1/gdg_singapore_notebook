@@ -38,7 +38,6 @@ By Poo Kuan Hoong (Google Developer Expert - AI/ML)
 - https://docs.google.com/presentation/d/1WlniQEbJtVDniw-fQnspnryncJGVrfmLwNTXwy5wDDI/mobilepresent
 - https://www.kaggle.com/models
 
-
 sft = supervised fine tuned training
 rlhf = Reinforcement learning from human feedback
 
@@ -47,6 +46,7 @@ rlhf = Reinforcement learning from human feedback
 By Leong Lai Fong (Google Developer Expert - AI/ML, Google Cloud Platform)
 
 - https://www.langchain.com/
+- https://cloud.google.com/vertex-ai/generative-ai/docs/model-reference/reasoning-engine
 - https://colab.research.google.com/drive/1Mso4rx2kxZK9ZfP7UmxVYx96EF1ye4_G
 
 
@@ -55,8 +55,10 @@ By Martin Andrews (Google Developer Expert - AI/ML)
 
 - https://redcatlabs.com/2024-05-30_MLSG_GoogleVision/#/google-vision-talk
 - https://huggingface.co/spaces/big-vision/paligemma
+- https://huggingface.co/docs/transformers/main/en/model_doc/paligemma
 - https://openart.ai/home
 - https://huggingface.co/mistralai/Mistral-7B-v0.1
+- https://huggingface.co/Xenova/gpt-4o
 
 ---
 

@@ -8,7 +8,6 @@
 ## From an App-dev - Build a Scalable Gemini-Powered Serverless App
 By Weiyuan Liu (Google Developer Expert - Google Cloud Platform)
 
-- https://ai.google.dev/gemini-api
 - https://ai.google.dev/gemma
 - https://aitestkitchen.withgoogle.com/tools/music-fx
 
@@ -23,7 +22,6 @@ By Pankaj Parkar (Google Developer Expert - Angular)
 By Hassan Abid (Google Developer Expert - Android)
 https://developer.android.com/about/versions/15/release-notes
 
-- https://ai.google.dev/gemini-api
 
 
 ## Maximizing Efficiency and Precision: Employing On-Device AI/ML to Elevate Business Process

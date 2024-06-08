@@ -1,6 +1,7 @@
 # Google I/O Extended Singapore 2024
-https://gdg.community.dev/events/details/google-gdg-singapore-presents-google-io-extended-singapore-2024/
-
+- https://gdg.community.dev/events/details/google-gdg-singapore-presents-google-io-extended-singapore-2024/
+- https://gamma.app/
+- https://aitestkitchen.withgoogle.com/
 
 ## From an App-dev - Build a Scalable Gemini-Powered Serverless App
 By Weiyuan Liu (Google Developer Expert - Google Cloud Platform)

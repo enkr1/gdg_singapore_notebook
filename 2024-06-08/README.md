@@ -90,3 +90,55 @@ By Martin Andrews (Google Developer Expert - AI/ML)
   - **SigLIP**: Achieves better zero-shot classification accuracy and can handle larger batch sizes effectively.
 
 In summary, both CLIP and SigLIP are powerful models for connecting images and text, with SigLIP offering some improvements in efficiency and performance through its use of a sigmoid loss function【9†source】【10†source】【12†source】.
+
+--- 
+
+## Summary of Today's Learnings
+
+**Function Calling**:
+- **Definition**: Using a specific piece of code (a function) by writing its name followed by parentheses, optionally including arguments inside the parentheses to perform a task or calculation.
+
+**RAG (Retrieval-Augmented Generation)**:
+- **Purpose**: Enhances responses of generative language models by integrating external information from data sources.
+- **Phases**:
+  - **Retrieval**: Searches for relevant external data.
+  - **Generation**: Combines retrieved data with internal knowledge to generate a response.
+- **Limitations**:
+  - **Complexity and Cost**: Requires significant computational resources.
+  - **Data Quality Dependence**: Effectiveness depends on the quality and relevance of external data.
+  - **Latency Issues**: Retrieving information in real-time can be slow.
+  - **Integration Challenges**: Managing and updating data sources can be difficult.
+  - **Security and Privacy Concerns**: Handling sensitive data requires careful management.
+  - **Maintenance Overhead**: Requires continuous effort to maintain updated and accurate data.
+  - **Noise and Relevance**: Filtering relevant information from large datasets is challenging.
+
+**Reasoning Engine**:
+- **Definition**: A component in AI that applies logical rules to a knowledge base to deduce new information or make decisions.
+
+**AI Agent**:
+- **Definition**: A software entity that autonomously performs tasks, makes decisions, and interacts with its environment to achieve specific goals based on its programming and learned knowledge.
+- **Examples**:
+  - **Personal Assistants**: Siri, Alexa, Google Assistant.
+  - **Customer Service Chatbots**: IBM Watson, LivePerson.
+  - **Autonomous Vehicles**: Tesla's Autopilot, Waymo.
+  - **Healthcare AI**: IBM Watson Health, Google's DeepMind.
+  - **Financial Trading Bots**: Algorithmic Trading Systems.
+  - **Smart Home Systems**: Nest Thermostat, Philips Hue.
+
+**SIGLIP vs. CLIP**:
+- **CLIP (Contrastive Language-Image Pre-Training)**:
+  - Developed by OpenAI.
+  - Connects text and images through contrastive learning.
+  - Key Features: Zero-shot learning, natural language supervision, versatile applications.
+- **SigLIP (Sigmoid Loss for Language-Image Pre-Training)**:
+  - Uses a sigmoid loss function instead of contrastive loss.
+  - More efficient training and improved performance in zero-shot classification tasks.
+  - Better scalability and performance compared to CLIP.
+
+### Key Points to Remember:
+- **RAG**: Enhances language models by integrating external data; has limitations like complexity, data quality dependence, and maintenance overhead.
+- **Reasoning Engine**: Applies logical rules to a knowledge base to deduce new information.
+- **AI Agent**: Autonomous software entity performing tasks and making decisions.
+- **CLIP vs. SigLIP**: Both connect images and text, but SigLIP uses a sigmoid loss function for better efficiency and performance.
+
+This summary encapsulates the key learnings from today, providing a comprehensive overview of each topic discussed.

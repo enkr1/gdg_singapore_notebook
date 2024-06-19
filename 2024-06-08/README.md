@@ -1,6 +1,7 @@
 # Google I/O Extended Singapore 2024
 - https://gdg.community.dev/events/details/google-gdg-singapore-presents-google-io-extended-singapore-2024/
 - https://drive.google.com/drive/folders/1Yzquv7_-SiWe6b2H-2TLadZ9iw58HSI-
+- https://photos.google.com/share/AF1QipNEye0qEsBABpzEFuPHAN_QOG7gua7Km97q-zWKKbv0Nl-H7j4ix1ImrNhVrK-1yQ?key=ck50azIwWHozdHNfSW5VUEZ4V2FzZ2JwQXl4d1VB
 - https://gamma.app/
 - https://aitestkitchen.withgoogle.com/
 - https://ai.google.dev/gemini-api
